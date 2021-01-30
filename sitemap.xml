@@ -3,6 +3,7 @@
 <url> <loc>https://galenballew.fyi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://galenballew.fyi/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://galenballew.fyi/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://galenballew.fyi/the-mythical-man-month</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://galenballew.fyi/kubernetes-best-practices</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://galenballew.fyi/how-to-win-friends-influence-people</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://galenballew.fyi/terraform-for-dummies</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
